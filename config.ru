@@ -1,3 +1,3 @@
 require './config/environment'
-require
+require_relative
 run App
